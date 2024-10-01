@@ -32,7 +32,7 @@ main {
 .function {
     display: flex;
     align-items: center;
-    font-size: 1em;
+    font-size: 0.8em;
     color: #28152B;
     justify-content: space-between;
 }
